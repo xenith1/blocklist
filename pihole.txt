@@ -1,0 +1,487 @@
+####################################################################################################
+# 2021-05-10
+# From: orders@qualitops.co.uk
+# https://pg-finacesolutions.co.uk/
+0.0.0.0 pg-finacesolutions.co.uk
+0.0.0.0 www.pg-finacesolutions.co.uk
+0.0.0.0 kmaxleather.com
+0.0.0.0 www.kmaxleather.com
+0.0.0.0 qualitops.co.uk
+0.0.0.0 www.qualitops.co.uk
+####################################################################################################
+# 2021-05-17
+# From: rakuten@inversenet.co.jp
+# http://t.messages.lifepointspanel.com/r/?id=h11c019f,317ba4e,317ba50&p1=q-u9.us?e=redacted@xenith.co.uk&acceptLang=en-AU&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsidGVzdGp3dHJlc291cmNlaWQiXSwiY29kZSI6Njg2LCJ1c2VyX25hbWUiOiJqb0BzdXByZW1lcGl6emEuY29tLmF1Iiwic2NvcGUiOlsicmVhZCwiLCJ0cnVzdCIsIndyaXRlLCJdLCJvcmdhbml6YXRpb24iOiJLYW50YXIiLCJpZCI6ImpvQHN1cHJlbWVwaXp6YS5jb20uYXUiLCJleHAiOjE1ODIxODMwNDgsImF1dGhvcml0aWVzIjpbIlJPTEVfSU5JVCJdLCJqdGkiOiI0NTFlNGNiYi01MzZmLTRjYjItOTkzNS03NDA0OTc1ODNlNjMiLCJjbGllbnRfaWQiOiJyaWxwbGF0b25lY2xpZW50cHJvZCJ9.BuZmALP3kvpIRwBBghe-CT6BxoyaRXZPKM9VOa0ymoA
+0.0.0.0 inversenet.co.jp
+0.0.0.0 www.inversenet.co.jp
+0.0.0.0 t.messages.lifepointspanel.com
+0.0.0.0 www.t.messages.lifepointspanel.com
+0.0.0.0 q-u9.us
+0.0.0.0 www.q-u9.us
+# From: bkirkman@nuserve.co.uk
+# Not flagged by Office365
+# Link goes to company's proprietary hosting platform
+# https://www.notion.so/NuServe-654df1d32be846b581cc2d35a2c83881
+0.0.0.0 notion.so
+0.0.0.0 www.notion.so
+0.0.0.0 rheabypassuit.buzz
+0.0.0.0 www.rheabypassuit.buzz
+####################################################################################################
+# 2021-05-19
+# From: com@emines.co.za
+# http://up.rev.ref.qnqshp.stylite.pk/.rty/.sdf/?qNQSHp
+0.0.0.0 emines.co.za
+0.0.0.0 www.emines.co.za
+0.0.0.0 up.rev.ref.qnqshp.stylite.pk
+0.0.0.0 www.up.rev.ref.qnqshp.stylite.pk
+0.0.0.0 peira.gov.pk
+0.0.0.0 www.peira.gov.pk
+####################################################################################################
+# 2021-05-25
+# From: keris@London-Management.com
+# Url: https://crmtrabajo.com/o/OV4?redacted@xenith.co.uk
+0.0.0.0 crmtrabajo.com
+0.0.0.0 www.crmtrabajo.com
+####################################################################################################
+# 2021-06-05
+# From: kkagayama@hakore.co.jp
+# Url: http://redacted.officevoicemessagelisten.com/#c2NvdHRoQHhlbml0aC5jby51aw==#aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ==#c2NvdHRoQHhlbml0aC5jby51aw==
+0.0.0.0 officevoicemessagelisten.com
+0.0.0.0 offcevoicemessage465-packmesssageaudiolisten-bucketvoicemessage.s3.eu-de.cloud-object-storage.appdomain.cloud
+0.0.0.0 hakore.co.jp
+####################################################################################################
+# 2021-06-09
+# From: carol@carolcriner.com
+# Url: https://loits.gator.site/
+0.0.0.0 loits.gator.site
+0.0.0.0 www.loits.gator.site
+0.0.0.0 www.hostgator.com
+0.0.0.0 hostgator.com
+0.0.0.0 diez4.com
+0.0.0.0 www.diez4.com
+0.0.0.0 jsonip.com
+0.0.0.0 www.jsonip.com
+####################################################################################################
+# 2021-06-14
+# From: pburns@canadiangaming.ca
+# Url: http://redacted.buyland4less.com/vrt/redacted@xenith.co.uk
+0.0.0.0 buyland4less.com
+0.0.0.0 www.buyland4less.com
+0.0.0.0 canadiangaming.ca
+0.0.0.0 www.canadiangaming.ca
+# From: updates-o2@limited-billing.co.uk
+# Url: https://rplg.co/form-web
+0.0.0.0 rplg.co
+0.0.0.0 www.rplg.co
+0.0.0.0 limited-billing.co.uk
+0.0.0.0 www.limited-billing.co.uk
+####################################################################################################
+# 2021-06-16
+# From: machiko@vanca.com
+# Url: https://meet.google.com/linkredirect?dest=http://8821382.golddaltoncarspetone.com/#anVzdGluLm1pbGxpZ2FuQHhlbml0aC5jby51aw==
+0.0.0.0 golddaltoncarspetone.com
+0.0.0.0 www.golddaltoncarspetone.com
+0.0.0.0 vanca.com
+0.0.0.0 www.vanca.com
+# From: yamasaki@levia-jp.com
+# Url: https://meet.google.com/linkredirect?dest=http://8201949.jamehusocapt.com/#anVzdGluLm1pbGxpZ2FuQHhlbml0aC5jby51aw==
+0.0.0.0 jamehusocapt.com
+0.0.0.0 www.jamehusocapt.com
+0.0.0.0 levia-jp.com
+0.0.0.0 www.levia-jp.com
+####################################################################################################
+# 2021-06-25
+# From: do-not-reply@assessandconstruct.com.au
+# Url: https://ap8237.editorx.io/bigthingscables
+0.0.0.0 ap8237.editorx.io
+0.0.0.0 www.ap8237.editorx.io
+0.0.0.0 assessandconstruct.com.au
+0.0.0.0 www.assessandconstruct.com.au
+0.0.0.0 students.audit.gov.ly
+0.0.0.0 www.students.audit.gov.ly
+####################################################################################################
+# 2021-07-05
+# From: kketchum@telus.net
+# Url: https://meet.google.com/linkredirect?dest=https://kf0tn.csb.app/?dg=redacted@xenith.co.uk
+0.0.0.0 kf0tn.csb.app
+0.0.0.0 www.kf0tn.csb.app
+0.0.0.0 jhyf8azl83jaxnaq.w3spaces.com
+0.0.0.0 www.jhyf8azl83jaxnaq.w3spaces.com
+0.0.0.0 telus.net
+0.0.0.0 www.telus.net
+0.0.0.0 ptkoaman.com
+0.0.0.0 www.ptkoaman.com
+####################################################################################################
+# 2021-07-05
+# From: saiqa@applocum.com
+# Url: https://lp.vp4.me/ppmh
+0.0.0.0 lp.vp4.me
+0.0.0.0 www.lp.vp4.me
+0.0.0.0 pjq09k.z6.web.core.windows.net
+0.0.0.0 www.pjq09k.z6.web.core.windows.net
+0.0.0.0 horizonsforstudy.com
+0.0.0.0 www.horizonsforstudy.com
+0.0.0.0 applocum.com
+0.0.0.0 www.applocum.com
+####################################################################################################
+# 2021-07-10
+# From: compass@compass.email
+# Url: http://www.bigbluecenter.com/dsdsds54we4wewew//
+0.0.0.0 bigbluecenter.com
+0.0.0.0 www.bigbluecenter.com
+####################################################################################################
+# 2021-07-13
+# Found in a WSHRAT analysis
+# Source: https://www.youtube.com/watch?v=XDAiS6KBDOs
+0.0.0.0 trabajovalle2022.duckdns.org
+0.0.0.0 www.trabajovalle2022.duckdns.org
+0.0.0.0 galakhov.duckdns.org
+0.0.0.0 www.galakhov.duckdns.org
+0.0.0.0 motwani.duckdns.org
+0.0.0.0 www.motwani.duckdns.org
+0.0.0.0 ijehawele.duckdns.org
+0.0.0.0 www.ijehawele.duckdns.org
+0.0.0.0 dbin240.ddns.net
+0.0.0.0 www.dbin240.ddns.net
+0.0.0.0 unknownsoft.duckdns.org
+0.0.0.0 www.unknownsoft.duckdns.org
+0.0.0.0 mxrecords9688.bounceme.net
+0.0.0.0 www.mxrecords9688.bounceme.net
+####################################################################################################
+# 2021-07-23
+# Found in malware analysis
+0.0.0.0 titko.wancdnapp.page
+0.0.0.0 www.titko.wancdnapp.page
+0.0.0.0 manaapdpemtri.firebaseapp.com
+0.0.0.0 www.manaapdpemtri.firebaseapp.com
+0.0.0.0 tkobkzixuvga8d9zoxid.us-south.cf.appdomain.cloud
+0.0.0.0 www.tkobkzixuvga8d9zoxid.us-south.cf.appdomain.cloud
+0.0.0.0 kifot.wancdnapp.page
+0.0.0.0 www.kifot.wancdnapp.page
+0.0.0.0 nypu.us
+0.0.0.0 www.nypu.us
+0.0.0.0 f-or.online
+0.0.0.0 www.f-or.online
+0.0.0.0 www.hoshi-design.jp
+0.0.0.0 hoshi-design.jp
+0.0.0.0 www.gonnokoki.co.jp
+0.0.0.0 gonnokoki.co.jp
+0.0.0.0 voicemessage-secur.ddns.net
+0.0.0.0 www.voicemessage-secur.ddns.net
+0.0.0.0 pbformonline.com
+0.0.0.0 www.pbformonline.com
+0.0.0.0 ix-a.online
+0.0.0.0 www.ix-a.online
+0.0.0.0 idea-net.co.jp
+0.0.0.0 www.idea-net.co.jp
+####################################################################################################
+# 2021-07-26
+# From: hello@trippal.ai
+# Url: http://v2828p.jeelani-ent.com.pk/v2828p#cooperative-training.lk/bio/gu/YWNjb3VudHMucGF5YWJsZUB4ZW5pdGguY28udWs=
+0.0.0.0 trippal.ai
+0.0.0.0 www.trippal.ai
+0.0.0.0 v2828p.jeelani-ent.com.pk
+0.0.0.0 www.v2828p.jeelani-ent.com.pk
+0.0.0.0 tajricommunication.com
+0.0.0.0 www.tajricommunication.com
+0.0.0.0 cdn.clipart.email
+0.0.0.0 www.cdn.clipart.email
+# Reported by CLIENT RELATIONSHIP MANAGER:
+# Url: https://coisasdedivapro.site/wp-content/themes/excel-rd42/
+0.0.0.0 coisasdedivapro.site
+0.0.0.0 www.coisasdedivapro.site
+####################################################################################################
+# 2021-07-27
+# From: info@au.wakwak.com
+# Url: http://www.vrvavs.mtdesign.hu/#fabiaent.com/bio/12/YWNjb3VudHMucGF5YWJsZUB4ZW5pdGguY28udWs=
+0.0.0.0 www.vrvavs.mtdesign.hu
+0.0.0.0 vrvavs.mtdesign.hu
+0.0.0.0 wakwak.com
+0.0.0.0 www.wakwak.com
+0.0.0.0 au.wakwak.com
+0.0.0.0 www.au.wakwak.com
+# From: eric.keane@ifsl.uk.com
+# Url: http://my-doc-u.com/confidential-document/
+0.0.0.0 ifsl.uk.com
+0.0.0.0 www.ifsl.uk.com
+0.0.0.0 my-doc-u.com
+0.0.0.0 www.my-doc-u.com
+0.0.0.0 ibmbucket7060.s3.jp-osa.cloud-object-storage.appdomain.cloud
+0.0.0.0 www.ibmbucket7060.s3.jp-osa.cloud-object-storage.appdomain.cloud
+0.0.0.0 ses-smtp.com
+0.0.0.0 www.ses-smtp.com
+####################################################################################################
+# 2021-08-11
+# From: inbloundfaxmessage@theplayersnyc.org
+# Url: https://elink.io/p/3239941102-9117ced
+0.0.0.0 theplayersnyc.org
+0.0.0.0 www.theplayersnyc.org
+0.0.0.0 elink.io
+0.0.0.0 www.elink.io
+0.0.0.0 cerebral-palsy-lawyer-new-york.com
+0.0.0.0 www.cerebral-palsy-lawyer-new-york.com
+####################################################################################################
+# 2021-08-20
+# From: <>
+# Url: https://mcces.com.pk/missedCALL/?email=redacted@xenith.co.uk
+0.0.0.0 mcces.com.pk
+0.0.0.0 www.mcces.com.pk
+####################################################################################################
+# 2021-08-24
+# Found in malware analysis
+0.0.0.0 www.hurleyauctions.us
+0.0.0.0 hurleyauctions.us
+####################################################################################################
+# 2021-08-26
+# From: <>
+# Url: https://descontosevantagens.com/office365mail/BLUE/?email=redacted@xenith.co.uk
+0.0.0.0 descontosevantagens.com
+0.0.0.0 www.descontosevantagens.com
+####################################################################################################
+# 2021-08-30
+# From: dgustafson@allpointstech.com
+# HTML attachment
+0.0.0.0 pmsgen.co.in
+0.0.0.0 www.pmsgen.co.in
+0.0.0.0 allpointstech.com
+0.0.0.0 www.allpointstech.com
+####################################################################################################
+# 2021-09-01
+# From: newsletter@eurobrussels.com
+# Url: https://s1tz.mjt.lu/unsub2?m=AMoAAK3ob2wAAcpW4hAAAGq3V3UAAJ51lHgACIJ5AAFMSABhLdAd5UOWg0QxQCuk-R48b0pAJQABPgw&b=0cde05c0&e=234266f8&x=d1bmCWFuPxvZGqjfnTJSoA2GdKUuQblBWM4YKZo4K20
+0.0.0.0 s1tz.mjt.lu
+0.0.0.0 www.s1tz.mjt.lu
+####################################################################################################
+# 2021-09-02
+# From: info@newsletters.cbc.ca
+# Url: g-force.com.tw/to/redacted@xenith.co.uk
+0.0.0.0 g-force.com.tw
+0.0.0.0 www.g-force.com.tw
+0.0.0.0 newsletters.cbc.ca
+0.0.0.0 www.newsletters.cbc.ca
+####################################################################################################
+# 2021-09-08
+# Submitted from user
+# HTML attachment
+# Url: https://fanjattp.fabieng.net/submit.php
+0.0.0.0 fanjattp.fabieng.net
+0.0.0.0 www.fanjattp.fabieng.net
+0.0.0.0 fabieng.net
+0.0.0.0 www.fabieng.net
+####################################################################################################
+# 2021-09-09
+# From: davidg@griffithweb.net
+# Url: http://p.8wvn.empmenudigital.pt/.c3R1YXJ0Y0B4ZW5pdGguY28udWs=%20#aHR0cHM6Ly90cnV0aC1ncmFuaXRlLWJhcm9uLmdsaXRjaC5tZS83NmsuaHRtbCNzdHVhcnRjQHhlbml0aC5jby51aw==
+0.0.0.0 p.8wvn.empmenudigital.pt
+0.0.0.0 www.p.8wvn.empmenudigital.pt
+0.0.0.0 8wvn.empmenudigital.pt
+0.0.0.0 www.8wvn.empmenudigital.pt
+0.0.0.0 empmenudigital.pt
+0.0.0.0 www.empmenudigital.pt
+0.0.0.0 truth-granite-baron.glitch.me
+0.0.0.0 www.truth-granite-baron.glitch.me
+0.0.0.0 glitch.me
+0.0.0.0 www.glitch.me
+0.0.0.0 griffithweb.net
+0.0.0.0 www.griffithweb.net
+########################################### same campaign ##########################################
+# From: sonya@remlandinsurance.com
+# Url: http://f.gtsm.empmenudigital.pt/.ZW1pbHloQHhlbml0aC5jby51aw==%20
+0.0.0.0 f.gtsm.empmenudigital.pt
+0.0.0.0 www.f.gtsm.empmenudigital.pt
+0.0.0.0 gtsm.empmenudigital.pt
+0.0.0.0 www.gtsm.empmenudigital.pt
+0.0.0.0 remlandinsurance.com
+0.0.0.0 www.remlandinsurance.com
+####################################################################################################
+# 2021-09-10
+# From: norreply@askkindlynows.com
+# Url: https://4518cbbd17f643fcbfc4aaf2f3e73804.svc.dynamics.com/t/t/9TJ8X24n3bVtbirMwUqp61zxTzYW9GZLegabEQxI33Mx/lCTHG9P5i5WSOChfdDjMZLD7j11HjMBevohsoKNZ0w0x?p0=redacted@xenith.co.uk
+0.0.0.0 4518cbbd17f643fcbfc4aaf2f3e73804.svc.dynamics.com
+0.0.0.0 www.4518cbbd17f643fcbfc4aaf2f3e73804.svc.dynamics.com
+0.0.0.0 askkindlynows.com
+0.0.0.0 www.askkindlynows.com
+####################################################################################################
+0.0.0.0 flatearth101.com
+0.0.0.0 www.flatearth101.com
+####################################################################################################
+# 2021-09-20
+# User Submitted
+0.0.0.0 hiopas.com
+0.0.0.0 www.hiopas.com
+0.0.0.0 e5.valueserver.jp
+0.0.0.0 www.e5.valueserver.jp
+# From:
+# Url: https://b9203ec708984103a5619ad9a284d620.svc.dynamics.com/t/t/pyOYIxxQ36w3lwGhsa6rI1cxW2Jj4AIz9x9GbtCJGm0x/TCiFmOw4HFcSulxRm8PUCxVXBqPfCHMDKMqjv933NbEx?p0=redacted@xenith.co.uk
+0.0.0.0 b9203ec708984103a5619ad9a284d620.svc.dynamics.com
+0.0.0.0 www.b9203ec708984103a5619ad9a284d620.svc.dynamics.com
+0.0.0.0 investmpmoplus.com
+0.0.0.0 www.investmpmoplus.com
+####################################################################################################
+# 2021-09-23
+# Malware analysis
+# Source: https://youtu.be/ElqmQDySy48
+0.0.0.0 rick63.publicvm.com
+0.0.0.0 www.rick63.publicvm.com
+0.0.0.0 publicvm.com
+0.0.0.0 www.publicvm.com
+####################################################################################################
+# 2021-09-27
+# User Submitted
+0.0.0.0 aerialf1.com
+0.0.0.0 www.aerialf1.com
+0.0.0.0 akapon.kanritools.com
+0.0.0.0 www.akapon.kanritools.com
+####################################################################################################
+# 2021-10-06
+# Found in a attachment
+0.0.0.0 musk.btcdonatver.site
+0.0.0.0 www.musk.btcdonatver.site
+0.0.0.0 dnt.btcdonatver.site
+0.0.0.0 www.dnt.btcdonatver.site
+0.0.0.0 btcdonatver.site
+0.0.0.0 www.btcdonatver.site
+####################################################################################################
+# 2021-10-08
+# Via SMS
+0.0.0.0 ukredeliverydpd.com
+0.0.0.0 www.ukredeliverydpd.com
+0.0.0.0 ukredeliverydpd.com
+0.0.0.0 www.ukredeliverydpd.com
+0.0.0.0 redeliverys-depot.com
+0.0.0.0 www.redeliverys-depot.com
+0.0.0.0 dpd-mytracking.com
+0.0.0.0 www.dpd-mytracking.com
+0.0.0.0 fedex-delivery.com
+0.0.0.0 www.fedex-delivery.com
+0.0.0.0 rm-ukparcel24-06.com
+0.0.0.0 www.rm-ukparcel24-06.com
+0.0.0.0 royalmail.co.uk-signed.com
+0.0.0.0 www.royalmail.co.uk-signed.com
+0.0.0.0 co.uk-signed.com
+0.0.0.0 www.co.uk-signed.com
+0.0.0.0 uk-signed.com
+0.0.0.0 www.uk-signed.com
+0.0.0.0 dpd.delivery2b6j.com
+0.0.0.0 www.dpd.delivery2b6j.com
+0.0.0.0 delivery2b6j.com
+0.0.0.0 www.delivery2b6j.com
+####################################################################################################
+# 2021-10-11
+# From: hello@email.whitefoxboutique.com
+# Source: http://fromil.com/ROO/redacted@xenith.co.uk
+0.0.0.0 fromil.com
+0.0.0.0 www.fromil.com
+0.0.0.0 email.whitefoxboutique.com
+0.0.0.0 www.email.whitefoxboutique.com
+0.0.0.0 whitefoxboutique.com
+0.0.0.0 www.whitefoxboutique.com
+####################################################################################################
+# 2021-11-1
+# From: utako@utagokoro.jp
+# Source: https://nhspass-gov.heteml.net/www.england.nhs.uk/digital.nhs.co.uk/website/online-application
+0.0.0.0 utagokoro.jp
+0.0.0.0 www.utagokoro.jp
+0.0.0.0 nhspass-gov.heteml.net
+0.0.0.0 www.nhspass-gov.heteml.net
+0.0.0.0 heteml.net
+0.0.0.0 www.heteml.net
+####################################################################################################
+# 2021-11-08
+# From: acrosticsferoze.engineer@discographypro.com
+# Source: https://eu.discographypro.com/in/lrbze
+0.0.0.0 discographypro.com
+0.0.0.0 www.discographypro.com
+0.0.0.0 eu.discographypro.com
+0.0.0.0 www.eu.discographypro.com
+0.0.0.0 lrbze.com
+0.0.0.0 www.lrbze.com
+####################################################################################################
+# 2021-11-08
+# From: lyndsey.corby@apogeecorp.com
+# Source: https://rb.gy/avjujn => https://smitmanvarphotography.com/wp-content/upgrade/index.php
+0.0.0.0 rb.gy
+0.0.0.0 www.rb.gy
+0.0.0.0 smitmanvarphotography.com
+0.0.0.0 www.smitmanvarphotography.com
+####################################################################################################
+# 2021-11-11
+# From: email@email.venetianlasvegas.com
+# Source: https://facelogic.jp/comman/redacted@xenith.co.uk
+0.0.0.0 venetianlasvegas.com
+0.0.0.0 www.venetianlasvegas.com
+0.0.0.0 facelogic.jp
+0.0.0.0 www.facelogic.jp
+0.0.0.0 episcopalnevada.org
+0.0.0.0 www.episcopalnevada.org
+####################################################################################################
+# 2021-11-11
+# From:dickshand@Marechalecapital.com
+# Source: https://rekooo3-verici.site.pro/ => https://iodized-wiry-traffic.glitch.me/fds.html => https://demo.360degreeinfo.net/a/next.php
+0.0.0.0 Marechalecapital.com
+0.0.0.0 www.Marechalecapital.com
+0.0.0.0 rekooo3-verici.site.pro
+0.0.0.0 www.rekooo3-verici.site.pro
+0.0.0.0 site.pro
+0.0.0.0 www.site.pro
+0.0.0.0 iodized-wiry-traffic.glitch.me
+0.0.0.0 www.iodized-wiry-traffic.glitch.me
+0.0.0.0 glitch.me
+0.0.0.0 www.glitch.me
+0.0.0.0 demo.360degreeinfo.net
+0.0.0.0 www.demo.360degreeinfo.net
+0.0.0.0 360degreeinfo.net
+0.0.0.0 www.360degreeinfo.net
+####################################################################################################
+# 2021-11-15
+# From: promo@promotions.perfumania.com
+# Source: http://www.enquete.r-gds.fr/wp-admin/MANA/redacted@xenith.co.uk
+0.0.0.0 enquete.r-gds.fr
+0.0.0.0 www.enquete.r-gds.fr
+0.0.0.0 r-gds.fr
+0.0.0.0 www.r-gds.fr
+####################################################################################################
+# 2021-11-29
+# User submission
+# From: info@guttmannahrens.com
+# Source: html attachment
+0.0.0.0 rpfhulzgxi.web.app
+0.0.0.0 www.rpfhulzgxi.web.app
+0.0.0.0 alexisapex.monster
+0.0.0.0 www.alexisapex.monster
+####################################################################################################
+# 2021-11-29
+# From: KMasi@winnyc.org
+# Source: https://17459-2640-ap1.ninjasites.net/wireconfirmation => https://rusti.us/gs/p4r.php
+0.0.0.0 17459-2640-ap1.ninjasites.net
+0.0.0.0 www.17459-2640-ap1.ninjasites.net
+0.0.0.0 winnyc.org
+0.0.0.0 www.winnyc.org
+0.0.0.0 rusti.us
+0.0.0.0 www.rusti.us
+####################################################################################################
+# 2021-12-03
+# From: support@egawo.com
+# Source: https://sya.soundestlink.com/link/61a9d3dd393a15001b04779d/61a9d3dda0c0fd001cdead6e/0?signature=%25recipient.signature_link%25#prazeresdacasa.com.br/work/?rav=redacted@xenith.co.uk
+0.0.0.0 egawo.com
+0.0.0.0 www.egawo.com
+0.0.0.0 soundestlink.com
+0.0.0.0 www.soundestlink.com
+0.0.0.0 sya.soundestlink.com
+0.0.0.0 www.sya.soundestlink.com
+0.0.0.0 omnisend.com
+0.0.0.0 www.omnisend.com
+0.0.0.0 landing.omnisend.com
+0.0.0.0 www.landing.omnisend.com
+####################################################################################################
+# 2021-12-09
+# User submission
+# From: Bill.Moran@duoplc.com
+# Source: https://billmoran.clickfunnels.com/webinar-registration1639051651592 => https://kennyandrade.ca/fre/
+0.0.0.0 billmoran.clickfunnels.com
+0.0.0.0 www.billmoran.clickfunnels.com
+0.0.0.0 clickfunnels.com
+0.0.0.0 www.clickfunnels.com
+0.0.0.0 kennyandrade.ca
+0.0.0.0 www.kennyandrade.ca
+####################################################################################################
