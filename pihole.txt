@@ -485,3 +485,52 @@
 0.0.0.0 kennyandrade.ca
 0.0.0.0 www.kennyandrade.ca
 ####################################################################################################
+# 2022-01-19
+# User submission
+# From: noreply@livevoice1.com
+# Source: http://e5vu3a.square44.com/redacted@xenith.co.uk
+0.0.0.0 e5vu3a.square44.com
+0.0.0.0 www.e5vu3a.square44.com
+0.0.0.0 square44.com
+0.0.0.0 www.square44.com
+0.0.0.0 livevoice1.com
+0.0.0.0 www.livevoice1.com
+0.0.0.0 inmail1.livevoice1.com
+0.0.0.0 www.inmail1.livevoice1.com
+0.0.0.0 inmail2.livevoice1.com
+0.0.0.0 www.inmail2.livevoice1.com
+####################################################################################################
+# 2022-01-19
+# From: jackrogers@b.jackrogersusa.com
+# Source: https://nbf93pr3nhig.kidsmania.com.tr/?username=redacted@xenith.co.uk
+0.0.0.0 nbf93pr3nhig.kidsmania.com.tr
+0.0.0.0 www.nbf93pr3nhig.kidsmania.com.tr
+0.0.0.0 kidsmania.com.tr
+0.0.0.0 www.kidsmania.com.tr
+0.0.0.0 penntarestoration.com
+0.0.0.0 www.penntarestoration.com
+0.0.0.0 microsoftonline.penntarestoration.com
+0.0.0.0 www.microsoftonline.penntarestoration.com
+0.0.0.0 login-live.penntarestoration.com
+0.0.0.0 www.login-live.penntarestoration.com
+0.0.0.0 2jnwwsbbfyi3os0.penntarestoration.com
+0.0.0.0 www.2jnwwsbbfyi3os0.penntarestoration.com
+0.0.0.0 cozkwa2h5c8a5jn.penntarestoration.com
+0.0.0.0 www.cozkwa2h5c8a5jn.penntarestoration.com
+0.0.0.0 fwkwwgytdncsz55.penntarestoration.com
+0.0.0.0 www.fwkwwgytdncsz55.penntarestoration.com
+0.0.0.0 rmk9fhqb7bytndx.penntarestoration.com
+0.0.0.0 www.rmk9fhqb7bytndx.penntarestoration.com
+0.0.0.0 e7ubvw5i9uryja2.penntarestoration.com
+0.0.0.0 www.e7ubvw5i9uryja2.penntarestoration.com
+0.0.0.0 9l92jacbzty5mut.penntarestoration.com
+0.0.0.0 www.9l92jacbzty5mut.penntarestoration.com
+0.0.0.0 vyexifefq7h4y7h.penntarestoration.com
+0.0.0.0 www.vyexifefq7h4y7h.penntarestoration.com
+0.0.0.0 cozkwa2h5c8a5jn.penntarestoration.com
+0.0.0.0 www.cozkwa2h5c8a5jn.penntarestoration.com
+0.0.0.0 bdpqn556lwfqh96.penntarestoration.com
+0.0.0.0 www.bdpqn556lwfqh96.penntarestoration.com
+0.0.0.0 b.jackrogersusa.com
+0.0.0.0 www.b.jackrogersusa.com
+####################################################################################################
