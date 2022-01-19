@@ -534,3 +534,10 @@
 0.0.0.0 b.jackrogersusa.com
 0.0.0.0 www.b.jackrogersusa.com
 ####################################################################################################
+# 2022-01-19
+# User submission
+# From: Sarah@wearewonderworks.com
+# Source: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.tresorit.com%2Fl%2FTTmsu%23BxGXAF1QIUJR0vXSPG2kEQ&data=04%7C01%7Credacted%40xenith.co.uk%7C129d4ef0b402435921af08d9db43be36%7C893f2dbe8b534014b40286d580e07ba0%7C1%7C0%7C637781906265504981%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=IeHxi7EwXZITZHZXJ44Wjz47gGFglrETm5xm5%2BXx4us%3D&reserved=0
+0.0.0.0 oswhite.xyz
+0.0.0.0 www.oswhite.xyz
+####################################################################################################
