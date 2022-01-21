@@ -541,3 +541,12 @@
 0.0.0.0 oswhite.xyz
 0.0.0.0 www.oswhite.xyz
 ####################################################################################################
+# 2022-01-21
+# User submission
+# From: redacted@xenith.co.uk
+# No links in the email... inverstigation points at a mailcious SMTP server
+0.0.0.0 smtp.eniro.com
+0.0.0.0 www.smtp.eniro.com
+0.0.0.0 eniro.com
+0.0.0.0 www.eniro.com
+####################################################################################################
