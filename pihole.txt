@@ -576,4 +576,6 @@
 0.0.0.0 www.coupons.raypestcontrol.com
 0.0.0.0 squad-lyrics-mlb-closely.trycloudflare.com
 0.0.0.0 www.squad-lyrics-mlb-closely.trycloudflare.com
+0.0.0.0 tlightnews.com
+0.0.0.0 www.tlightnews.com
 ####################################################################################################
