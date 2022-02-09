@@ -566,3 +566,14 @@
 0.0.0.0 mosquitomeshscreens.com
 0.0.0.0 www.mosquitomeshscreens.com
 ####################################################################################################
+# 2022-02-09
+# Spam analysis
+0.0.0.0 660706.selcdn.ru
+0.0.0.0 www.660706.selcdn.ru
+0.0.0.0 rift-coal-shallot.glitch.me
+0.0.0.0 www.rift-coal-shallot.glitch.me
+0.0.0.0 coupons.raypestcontrol.com
+0.0.0.0 www.coupons.raypestcontrol.com
+0.0.0.0 squad-lyrics-mlb-closely.trycloudflare.com
+0.0.0.0 www.squad-lyrics-mlb-closely.trycloudflare.com
+####################################################################################################
