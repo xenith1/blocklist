@@ -579,3 +579,11 @@
 0.0.0.0 tlightnews.com
 0.0.0.0 www.tlightnews.com
 ####################################################################################################
+# 2022-02-22
+# From: tanishita@artech-net.com
+# http://t.go.rac.co.uk/r/?id=h107dfdd,d7748b,1ad59&cid=eml-AC058_CHUB_MEMBERS_RE-CHUB_M_RE_W1_20200922_125335&utm_medium=email&utm_source=AC058_CHUB_MEMBERS_RE&utm_campaign=CHUB_M_RE_W1_20200922_125335&omhide=true&p1=g-ov2.online/?e=anVzdGlubUB4ZW5pdGguY28udWs=%23
+0.0.0.0 artech-net.com
+0.0.0.0 www.artech-net.com
+0.0.0.0 t.go.rac.co.uk
+0.0.0.0 www.t.go.rac.co.uk
+####################################################################################################
