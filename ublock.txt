@@ -1,6 +1,6 @@
 ! Title: Xenith uBlock list
 ! Description: List of filter for uBlock origin used to remove parts of website or regexp block access to websites 
-! Expires: 1 days
+! Expires: 1 hour
 ! Homepage: https://github.com/xenith1/blocklist
 
 ! List of Pi-hole junk
