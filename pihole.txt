@@ -1,3 +1,8 @@
+! Title: Xenith DNS list
+! Description: List of filter for uBlock/Pi-hole used to block access to websites 
+! Expires: 1 hour
+! Homepage: https://github.com/xenith1/blocklist
+
 ####################################################################################################
 # 2021-05-10
 # From: orders@qualitops.co.uk
