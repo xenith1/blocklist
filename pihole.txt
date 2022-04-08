@@ -549,7 +549,7 @@
 # 2022-01-21
 # User submission
 # From: redacted@xenith.co.uk
-# No links in the email... inverstigation points at a mailcious SMTP server
+# No links in the email... investigation points at a mailcious SMTP server
 0.0.0.0 smtp.eniro.com
 0.0.0.0 www.smtp.eniro.com
 0.0.0.0 eniro.com
@@ -591,4 +591,13 @@
 0.0.0.0 www.artech-net.com
 0.0.0.0 t.go.rac.co.uk
 0.0.0.0 www.t.go.rac.co.uk
+####################################################################################################
+# 2022-04-08
+# Investigation
+0.0.0.0 whm-106.supersiteserver.com
+0.0.0.0 www.whm-106.supersiteserver.com
+0.0.0.0 supersiteserver.com
+0.0.0.0 www.supersiteserver.com
+0.0.0.0 hotdatemehard.com
+0.0.0.0 www.hotdatemehard.com
 ####################################################################################################
