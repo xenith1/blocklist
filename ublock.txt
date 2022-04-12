@@ -54,4 +54,6 @@ azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##.version-info.text-ce
 ||Mopemodelingfrown.com^
 ||fleshcleanlinessdoomed.com^
 ||albeitinflame.com^
-
+||donordrive.com^
+||selectscience.net^
+||peapera.com^
