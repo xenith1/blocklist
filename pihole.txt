@@ -603,7 +603,7 @@
 ####################################################################################################
 # 2022-04-12
 # From: fundraising@donordrive.com
-# http://www.selectscience.net/go/?itemID=79&itemTypeID=4&linkID=ctabutton&mailID=18205&email=justin.milligan@xenith.co.uk&URL=http://cuy05.wamadev.com#/.#.aHR0cHM6Ly9wZWFwZXJhLmNvbS9iaGw4MDUveGVuaXRoLmNvLnVrL2p1c3Rpbi5taWxsaWdhbkB4ZW5pdGguY28udWs=
+# http://www.selectscience.net/go/?itemID=79&itemTypeID=4&linkID=ctabutton&mailID=18205&email=redacted@xenith.co.uk&URL=http://cuy05.wamadev.com#/.#.aHR0cHM6Ly9wZWFwZXJhLmNvbS9iaGw4MDUveGVuaXRoLmNvLnVrL2p1c3Rpbi5taWxsaWdhbkB4ZW5pdGguY28udWs=
 0.0.0.0 donordrive.com
 0.0.0.0 www.donordrive.com
 0.0.0.0 selectscience.net
@@ -616,4 +616,13 @@
 # https://local-depot44.com
 0.0.0.0 local-depot44.com
 0.0.0.0 www.local-depot44.com
+####################################################################################################
+####################################################################################################
+# 2022-07-25
+# User submitted
+# https://mso.m0367d6378b355472d879736b7350.live/?username=redacted@xenith.co.uk
+0.0.0.0 mso.m0367d6378b355472d879736b7350.live
+0.0.0.0 www.mso.m0367d6378b355472d879736b7350.live
+0.0.0.0 m0367d6378b355472d879736b7350.live
+0.0.0.0 www.m0367d6378b355472d879736b7350.live
 ####################################################################################################
