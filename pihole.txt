@@ -626,3 +626,16 @@
 0.0.0.0 m0367d6378b355472d879736b7350.live
 0.0.0.0 www.m0367d6378b355472d879736b7350.live
 ####################################################################################################
+# 2022-07-27
+# From: ed.nash@thegrange2016.co.uk
+# https://vollblutdrive.de/links.do?c=0&t=309&h=Datenschutz.html&g=0&dsmxs=2C15B3F5C2ACA6EE01ADD7C42AA6519B5EE594A4&link=https://www.myreniwn.com/free/atrinacty/filedocuments
+# https://www.myreniwn.com/free/atrinacty/filedocuments => https://kiwi-quirky-airport.glitch.me/KJindex.html => https://winstonsalemfootcare.com/JS/next.php
+0.0.0.0 vollblutdrive.de
+0.0.0.0 www.vollblutdrive.de
+0.0.0.0 myreniwn.com
+0.0.0.0 www.myreniwn.com
+0.0.0.0 kiwi-quirky-airport.glitch.me
+0.0.0.0 www.kiwi-quirky-airport.glitch.me
+0.0.0.0 winstonsalemfootcare.com
+0.0.0.0 www.winstonsalemfootcare.com
+####################################################################################################
