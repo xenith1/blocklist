@@ -27,8 +27,9 @@
 # Not flagged by Office365
 # Link goes to company's proprietary hosting platform
 # https://www.notion.so/NuServe-654df1d32be846b581cc2d35a2c83881
-0.0.0.0 notion.so
-0.0.0.0 www.notion.so
+# notion.so requested on 2022-10-05
+# 0.0.0.0 notion.so
+# 0.0.0.0 www.notion.so
 0.0.0.0 rheabypassuit.buzz
 0.0.0.0 www.rheabypassuit.buzz
 ####################################################################################################
