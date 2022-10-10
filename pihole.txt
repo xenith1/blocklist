@@ -640,3 +640,14 @@
 0.0.0.0 winstonsalemfootcare.com
 0.0.0.0 www.winstonsalemfootcare.com
 ####################################################################################################
+# 2022-10-10
+# From: maycabeesoo5@outlook.com
+# https://collegeple.catering
+0.0.0.0 collegeple.catering
+0.0.0.0 www.collegeple.catering
+# From: yolvikoumbae@outlook.com
+# https://celld.shopping
+0.0.0.0 celld.shopping
+0.0.0.0 www.celld.shopping
+####################################################################################################
+
