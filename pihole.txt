@@ -649,5 +649,10 @@
 # https://celld.shopping
 0.0.0.0 celld.shopping
 0.0.0.0 www.celld.shopping
+# Investigation
+# https://airdropeth.site/
+0.0.0.0 airdropeth.site
+0.0.0.0 www.airdropeth.site
 ####################################################################################################
+
 
