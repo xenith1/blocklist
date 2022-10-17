@@ -654,5 +654,9 @@
 0.0.0.0 airdropeth.site
 0.0.0.0 www.airdropeth.site
 ####################################################################################################
-
-
+# 2022-10-17
+# From: fbayoud@nashcollc.com
+# HTML attachment with that download JS src from: https://xclusivetravel.co.uk/offices/host7/admin/js/mj.php?ar=ZGVmYXVsdA== 
+0.0.0.0 xclusivetravel.co.uk
+0.0.0.0 www.xclusivetravel.co.uk
+####################################################################################################
