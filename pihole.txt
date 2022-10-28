@@ -656,7 +656,13 @@
 ####################################################################################################
 # 2022-10-17
 # From: fbayoud@nashcollc.com
-# HTML attachment with that download JS src from: https://xclusivetravel.co.uk/offices/host7/admin/js/mj.php?ar=ZGVmYXVsdA== 
+# HTML attachment that download JS src from: https://xclusivetravel.co.uk/offices/host7/admin/js/mj.php?ar=ZGVmYXVsdA== 
 0.0.0.0 xclusivetravel.co.uk
 0.0.0.0 www.xclusivetravel.co.uk
+####################################################################################################
+# 2022-10-27
+# From: spoofed internal address
+# HTML attachment with a post request to: https://ztccmumbai.org/.well-known/oska/___.php?_do=layout&email=redacted@xenith.co.uk
+0.0.0.0 ztccmumbai.org
+0.0.0.0 www.ztccmumbai.org
 ####################################################################################################

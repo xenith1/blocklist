@@ -47,7 +47,7 @@ azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##.version-info.text-ce
 192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##tr.even > td > .deleteCustomDNS.btn-xs.btn-danger.btn
 192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.version-info.text-center.row-centered.row
 
-! Entries flagged by Symantec
+! Blocked domains
 ||dischargedecent.com^
 ||advancedhosters.com^
 ||gaietyastonished.com^
@@ -58,3 +58,4 @@ azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##.version-info.text-ce
 ||selectscience.net^
 ||peapera.com^
 ||xclusivetravel.co.uk^
+||ztccmumbai.org^
