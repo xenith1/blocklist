@@ -4,9 +4,11 @@
 ! Homepage: https://github.com/xenith1/blocklist
 
 ! Portainer: upgrade to business edition
-portainer.xenith-iws.co.uk##:xpath(//button[contains(.,"Upgrade to Business Edition")])
+10.21.0.25,portainer.xenith-iws.co.uk##:xpath(//button[contains(.,"Upgrade to Business Edition")])
 ! Portainer: news from portainer
-portainer.xenith-iws.co.uk##:xpath(//div[@class = "col-sm-12"][descendant::div[@class = "widget"][descendant::div[@class = "motd-body widget-body"]]])
+10.21.0.25,portainer.xenith-iws.co.uk##:xpath(//div[@class = "col-sm-12"][descendant::div[@class = "widget"][descendant::div[@class = "motd-body widget-body"]]])
+! Portainer: update available
+10.21.0.25,portainer.xenith-iws.co.uk##.th-dark\:border-gray-warm-9.border-blue-9.th-dark\:bg-gray-warm-11.bg-blue-11.py-2.border.rounded.app-react-sidebar-Footer-UpdateNotifications-module__root
 
 ! Blocked domains
 ||dischargedecent.com^
