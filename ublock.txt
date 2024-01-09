@@ -3,49 +3,10 @@
 ! Expires: 1 hour
 ! Homepage: https://github.com/xenith1/blocklist
 
-! List of Pi-hole junk
-! 1: Temperature
-! 2: Donate menu entry
-! 3: Pi-hole button top-right
-! 4: Donate on footer
-! 5: Settings
-! 6: Disable
-! 7: Whitelist
-! 8: Blacklist
-! 9: Group management
-! 10: Tools
-! 11: Add button
-! 12: Remove button - odd
-! 13: Remove button - even
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com###temperature
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.user-menu.user.dropdown
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.col-sm-6.col-xs-12
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li:nth-of-type(11)
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com###pihole-disable > [href="#"]
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li:nth-of-type(5) > [href^="groups-domains.php"]
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li:nth-of-type(6) > [href^="groups-domains.php"]
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li.treeview:nth-of-type(7) > [href="#"]
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li.treeview:nth-of-type(10) > [href="#"]
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##.pull-right.btn-primary.btn
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##tr.odd > td > .deleteCustomDNS.btn-xs.btn-danger.btn
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##tr.even > td > .deleteCustomDNS.btn-xs.btn-danger.btn
-azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##.version-info.text-center.row-centered.row
-! Old Azure and London DNS server and IP addresses
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com###temperature
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.user-menu.user.dropdown
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.col-sm-6.col-xs-12
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li:nth-of-type(11)
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com###pihole-disable > [href="#"]
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li:nth-of-type(5) > [href^="groups-domains.php"]
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li:nth-of-type(6) > [href^="groups-domains.php"]
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li.treeview:nth-of-type(7) > [href="#"]
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li.treeview:nth-of-type(10) > [href="#"]
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.pull-right.btn-primary.btn
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##tr.odd > td > .deleteCustomDNS.btn-xs.btn-danger.btn
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##tr.even > td > .deleteCustomDNS.btn-xs.btn-danger.btn
-192.200.8.29,10.21.0.8,10.21.0.9,10.1.1.12,DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.version-info.text-center.row-centered.row
+! Portainer: upgrade to business edition
+portainer.xenith-iws.co.uk##:xpath(//button[contains(.,"Upgrade to Business Edition")])
+! Portainer: news from portainer
+portainer.xenith-iws.co.uk##:xpath(//div[@class = "col-sm-12"][descendant::div[@class = "widget"][descendant::div[@class = "motd-body widget-body"]]])
 
 ! Blocked domains
 ||dischargedecent.com^
